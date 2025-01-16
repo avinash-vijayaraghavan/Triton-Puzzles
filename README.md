@@ -1,4 +1,5 @@
 # Triton Puzzles
+forked from https://github.com/srush/Triton-Puzzles
 
 w/ [Tejas Ramesh](https://tejas3070.github.io/) and [Keren Zhou](https://www.jokeren.tech/) based on [Triton-Viz](https://github.com/Deep-Learning-Profiling-Tools/triton-viz)
 
